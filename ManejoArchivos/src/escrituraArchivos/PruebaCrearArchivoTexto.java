@@ -2,10 +2,10 @@ package escrituraArchivos;
 
 // Ejemplo tomado del libro 
 
-import escrituraArchivos2.ArchivoTexto;
+
 
 // D EITEL , P AUL J. Y H ARVEY M. D EITEL
-// CÓMO PROGRAMAR EN J AVA . Séptima edición
+// CÓMO PROGRAMAR EN JAVA . Séptima edición
 // fines educativos
 // Prueba de la clase ArchivoTexto.
 
